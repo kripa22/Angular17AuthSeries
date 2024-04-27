@@ -1,9 +1,11 @@
-# AngularAuth
+# Angular17 Authentication series
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+In this branch
 
 ## Development server
 
+Run `npm i or npm install`(this will create the required node_modules folder) to install all the dependencies  
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
